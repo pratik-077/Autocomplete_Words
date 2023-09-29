@@ -1,10 +1,10 @@
 # Autocomplete_Words
 Program to auto-complete the words in c++ using trie data-structure.
 
-# Introduction
+### Introduction
 This project aims to auto-complete the input word with the help of a dictionary text file.
 
-# Autocomplete
+### Autocomplete
 1) Get the word as input.
 2) If the word is present as a prefix of atleast one word, function outputs all those words having prefix as given word. Here is an example
 
